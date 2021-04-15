@@ -19,7 +19,13 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
 </keymap>
