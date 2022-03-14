@@ -1,0 +1,31 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorSelectWord" />
+  <action id="Find" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+</keymap>
