@@ -3,6 +3,7 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.pytest_cache;.svn;.tox;.vs;.vscode;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="env" type="PLAIN_TEXT" />
+      <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
