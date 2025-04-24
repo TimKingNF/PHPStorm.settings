@@ -9,5 +9,6 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bxxx\b.*" />
   </component>
 </application>
